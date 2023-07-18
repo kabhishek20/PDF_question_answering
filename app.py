@@ -11,7 +11,7 @@ from streamlit_chat import message as st_message
 from langchain import PromptTemplate
 
 st.set_page_config(
-    page_title="Warning Letter Reader",
+    page_title="PDF question answering",
     page_icon="drl logo.png",
     layout="wide"
 )
